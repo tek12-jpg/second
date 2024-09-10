@@ -1,0 +1,9 @@
+:root{
+    --red:blue ;
+}
+
+div{
+ width: 200px;
+ height: 200px;
+ background-image: linear-gradient(0deg, purple,blue,red);
+}
